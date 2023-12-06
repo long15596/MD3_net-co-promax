@@ -63,6 +63,6 @@
     </c:forEach>
     </tbody>
 </table>
-<button type="button" class="btn btn-primary" style="color: white"><a href="/users?action=create">ADD NEW</a></button>
+<button type="button" class="btn btn-primary" style="color: white"><a href="/users?action=create">ADD NEW   </a></button>
 </body>
 </html>
